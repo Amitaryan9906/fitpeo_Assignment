@@ -70,7 +70,7 @@ npm install -g cypress
 1. Clone this repository to your local machine:
 
    ```shell
-   
+   https://github.com/Amitaryan9906/fitpeo_Assignment.git
    ```
 
 2. Install project dependencies:
